@@ -15,9 +15,11 @@
 
     HTML5, CSS3, JavaScript 
 
-    React (learning / beginner / intermediate — edit as needed) 
+    React intermediate 
 
-    Node.js (learning / beginner — edit as needed) 
+    Php  
+
+    MySQL 
 
     Git & GitHub 
 
