@@ -1,13 +1,6 @@
 ## Hi there 👋
+
 💻 Junior Web Developer | 🐛 Bug Bounty Hunter | 🔐 Security Enthusiast
-
-🚀 About Me
-
-🌱 Currently learning advanced web development and cybersecurity
-
-🔎 Actively practicing bug bounty hunting and web security
-
-🛠️ Building personal projects to improve my skills
 
 🎯 Goal: Become a professional Web Developer and Security Researcher
 
