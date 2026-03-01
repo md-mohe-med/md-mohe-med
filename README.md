@@ -11,20 +11,21 @@
 
 🎯 Goal: Become a professional Web Developer and Security Researcher
 
-🌐 Web Development 
+## 🌐 Web Development 
  -HTML5, CSS3, JavaScript 
  -React intermediate 
  -Php  
  -MySQL 
  -Git & GitHub 
 
-💻 Security 
-    Web Application Testing 
-    Bug Bounty Methodology 
-    Basic Penetration Testing 
-    OWASP Top 10 
+## 💻 Security 
+   
+ -Web Application Testing 
+ -Bug Bounty Methodology 
+ -Basic Penetration Testing 
+ -OWASP Top 10 
 
-🛠️ Tools 
+## 🛠️ Tools 
  -Burp Suite 
  -Nmap 
  -Git 
