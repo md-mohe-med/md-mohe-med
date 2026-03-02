@@ -26,9 +26,6 @@
       <a href="https://reactjs.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
       </a>
-      <a href="https://www.figma.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-      </a>
     </td>
 
   <td align="center">
@@ -64,6 +61,9 @@
       </a>
       <a href="https://www.cprogramming.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+        </a>
+          <a href="https://www.figma.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
       </a>
   </td>
   </tr>
