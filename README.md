@@ -1,8 +1,6 @@
 
 <body style="background:#ffffff;color:#24292f;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-size:16px;line-height:1.6;padding:24px 32px 48px;max-width:800px;margin:0;">
 
-<p style="font-size:13px;color:#57606a;margin-bottom:20px;">Mohammed / README.md</p>
-
 <h1 style="font-size:32px;font-weight:700;color:#24292f;margin-bottom:10px;">Hi there! I'm Mohammed 👋</h1>
 
 <p style="font-size:14px;color:#24292f;margin-bottom:24px;line-height:1.8;">
