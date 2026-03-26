@@ -1,4 +1,3 @@
-
 <body style="background:#ffffff;color:#24292f;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-size:16px;line-height:1.6;padding:24px 32px 48px;max-width:800px;margin:0;">
 
 <h1 style="font-size:32px;font-weight:700;color:#24292f;margin-bottom:10px;">Hi there! I'm Mohammed 👋</h1>
@@ -26,7 +25,7 @@
   <li style="font-size:15px;margin-bottom:7px;">🔴 Currently hunting bugs on <b style="font-weight:600;">bug bounty platforms</b> – identifying and reporting security vulnerabilities</li>
   <li style="font-size:15px;margin-bottom:7px;">🌱 Exploring <b style="font-weight:600;">Modern Web Technologies</b>, <b style="font-weight:600;">Backend Architecture</b>, and <b style="font-weight:600;">Clean Code Principles</b></li>
   <li style="font-size:15px;margin-bottom:7px;">🖥️ Web Developer specializing in <b style="font-weight:600;">secure and efficient</b> full-stack applications</li>
-  <li style="font-size:15px;margin-bottom:7px;">🛠️ I enjoy building scalable applications with <b style="font-weight:600;">Node.js</b>, <b style="font-weight:600;">Express.js</b>, <b style="font-weight:600;">React</b>, and more</li>
+  <li style="font-size:15px;margin-bottom:7px;">🛠️ I enjoy building scalable applications with <b style="font-weight:600;">Node.js</b>, <b style="font-weight:600;">Express.js</b>, <b style="font-weight:600;">NestJS</b>, <b style="font-weight:600;">React</b>, and more</li>
   <li style="font-size:15px;margin-bottom:7px;">🏆 Contributing to open-source projects and building tools for the developer community</li>
 </ul>
 
@@ -102,6 +101,11 @@
       <td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td>
       <td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Framework</td>
     </tr>
+    <tr>
+      <td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">NestJS</td>
+      <td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td>
+      <td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Framework</td>
+    </tr>
   </tbody>
 </table>
 
@@ -122,6 +126,11 @@
       <td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Relational (SQL)</td>
     </tr>
     <tr style="background:#f6f8fa;">
+      <td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">PostgreSQL</td>
+      <td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td>
+      <td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Relational (SQL)</td>
+    </tr>
+    <tr>
       <td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">MongoDB</td>
       <td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td>
       <td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Document (NoSQL)</td>
@@ -207,6 +216,4 @@
   </div>
 </div>
 
-
 </body>
-</html>
