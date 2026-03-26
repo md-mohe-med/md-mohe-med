@@ -62,6 +62,11 @@
       <td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td>
       <td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Framework</td>
     </tr>
+    <tr style="background:#f6f8fa;">
+  <td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">Next.js</td>
+  <td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td>
+  <td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Framework</td>
+</tr>
     <tr>
       <td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">Figma</td>
       <td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="width:20px;height:20px;vertical-align:middle;"></td>
