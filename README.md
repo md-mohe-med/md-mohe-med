@@ -3,7 +3,7 @@
 <h1 style="font-size:32px;font-weight:700;color:#24292f;margin-bottom:10px;">Hi there! I'm Mohammed 👋</h1>
 
 <p style="font-size:14px;color:#24292f;margin-bottom:24px;line-height:1.8;">
-  <span>🚀 Junior UG Bounty Hunter</span>
+  <span>🚀 UG Bounty Hunter Enthusiast</span>
   <span style="color:#d0d7de;margin:0 6px;">|</span>
   <span>🌍 Algeria Student</span>
   <span style="color:#d0d7de;margin:0 6px;">|</span>
