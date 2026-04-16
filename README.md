@@ -1,28 +1,27 @@
-<body style="background:#ffffff;color:#24292f;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-size:16px;line-height:1.6;padding:24px 32px 48px;max-width:800px;margin:0;">
+
+<div style="background:#ffffff;color:#24292f;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-size:16px;line-height:1.6;padding:24px 32px 48px;max-width:800px;margin:0;">
 
 <h1 style="font-size:32px;font-weight:700;color:#24292f;margin-bottom:10px;">Hi there! I'm Mohammed 👋</h1>
 
 <p style="font-size:14px;color:#24292f;margin-bottom:24px;line-height:1.8;">
-  <span>🚀 UG Bounty Hunter Enthusiast</span>
-  <span style="color:#d0d7de;margin:0 6px;">|</span>
   <span>🌍 Algeria Student</span>
   <span style="color:#d0d7de;margin:0 6px;">|</span>
   <span>💡 Passionate about Security</span>
   <span style="color:#d0d7de;margin:0 6px;">|</span>
-  <span>🔒 Webmaster &amp; Bug Hunter</span>
+  <span>🔒 Webmaster & Aspiring Bug Hunter</span>
 </p>
 
-<pre style="background:#f6f8fa;border:1px solid #d0d7de;border-radius:6px;padding:16px;font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;font-size:13px;line-height:1.9;margin-bottom:28px;overflow-x:auto;position:relative;"><button onclick="this.innerText='Copied!';setTimeout(()=>this.innerText='Copy',1500);navigator.clipboard.writeText(`const mohammed = {\n  location: 'Algeria',\n  education: 'University Student',\n  focus: 'Bug Hunting & Full-Stack Development',\n  currentlyLearning: ['Advanced Security', 'Backend Architecture', 'Web Development'],\n  askMeAbout: ['JavaScript', 'React', 'Node.js', 'Full-Stack Dev', 'Cybersecurity'],\n};`)" style="position:absolute;top:10px;right:10px;background:#f6f8fa;border:1px solid #d0d7de;border-radius:6px;padding:4px 10px;font-size:12px;cursor:pointer;color:#57606a;font-family:inherit;">Copy</button><span style="color:#cf222e;">const</span> <span style="color:#0550ae;">mohammed</span> = {
+<pre style="background:#f6f8fa;border:1px solid #d0d7de;border-radius:6px;padding:16px;font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;font-size:13px;line-height:1.9;margin-bottom:28px;overflow-x:auto;position:relative;"><button onclick="this.innerText='Copied!';setTimeout(()=>this.innerText='Copy',1500);navigator.clipboard.writeText(`const mohammed = {\n  location: 'Algeria 🇩🇿',\n  education: 'Saad Dahleb',\n  focus: 'Cybersecurity & Full-Stack Development',\n  currentlyLearning: ['Web Security', 'Bug Hunting Methodology', 'Backend Architecture'],\n  askMeAbout: ['JavaScript', 'React', 'Node.js', 'Full-Stack Dev', 'Cybersecurity'],\n};`)" style="position:absolute;top:10px;right:10px;background:#f6f8fa;border:1px solid #d0d7de;border-radius:6px;padding:4px 10px;font-size:12px;cursor:pointer;color:#57606a;font-family:inherit;">Copy</button><span style="color:#cf222e;">const</span> <span style="color:#0550ae;">mohammed</span> = {
   <span style="color:#24292f;font-weight:600;">location</span>: <span style="color:#0a3069;">"Algeria 🇩🇿"</span>,
   <span style="color:#24292f;font-weight:600;">education</span>: <span style="color:#0a3069;">"Saad Dahleb"</span>,
-  <span style="color:#24292f;font-weight:600;">focus</span>: <span style="color:#0a3069;">"Bug Hunting &amp; Full-Stack Development"</span>,
-  <span style="color:#24292f;font-weight:600;">currentlyLearning</span>: [<span style="color:#0a3069;">"Advanced Security"</span>, <span style="color:#0a3069;">"Backend Architecture"</span>, <span style="color:#0a3069;">"Web Development"</span>],
+  <span style="color:#24292f;font-weight:600;">focus</span>: <span style="color:#0a3069;">"Cybersecurity &amp; Full-Stack Development"</span>,
+  <span style="color:#24292f;font-weight:600;">currentlyLearning</span>: [<span style="color:#0a3069;">"Web Security"</span>, <span style="color:#0a3069;">"Bug Hunting Methodology"</span>, <span style="color:#0a3069;">"Backend Architecture"</span>],
   <span style="color:#24292f;font-weight:600;">askMeAbout</span>: [<span style="color:#0a3069;">"JavaScript"</span>, <span style="color:#0a3069;">"React"</span>, <span style="color:#0a3069;">"Node.js"</span>, <span style="color:#0a3069;">"Full-Stack Dev"</span>, <span style="color:#0a3069;">"Cybersecurity"</span>],
 };</pre>
 
 <h2 style="font-size:22px;font-weight:700;color:#24292f;margin:28px 0 14px;padding-bottom:8px;border-bottom:1px solid #d0d7de;">🧑‍💻 About Me</h2>
 <ul style="list-style:none;padding:0;margin-bottom:10px;">
-  <li style="font-size:15px;margin-bottom:7px;">🔴 Currently hunting bugs on <b style="font-weight:600;">bug bounty platforms</b> – identifying and reporting security vulnerabilities</li>
+  <li style="font-size:15px;margin-bottom:7px;">🔴 Actively learning <b style="font-weight:600;">bug bounty hunting</b> – studying web security vulnerabilities and working toward my first real-world findings</li>
   <li style="font-size:15px;margin-bottom:7px;">🌱 Exploring <b style="font-weight:600;">Modern Web Technologies</b>, <b style="font-weight:600;">Backend Architecture</b>, and <b style="font-weight:600;">Clean Code Principles</b></li>
   <li style="font-size:15px;margin-bottom:7px;">🖥️ Web Developer specializing in <b style="font-weight:600;">secure and efficient</b> full-stack applications</li>
   <li style="font-size:15px;margin-bottom:7px;">🛠️ I enjoy building scalable applications with <b style="font-weight:600;">Node.js</b>, <b style="font-weight:600;">Express.js</b>, <b style="font-weight:600;">NestJS</b>, <b style="font-weight:600;">React</b>, and more</li>
@@ -31,7 +30,6 @@
 
 <h2 style="font-size:22px;font-weight:700;color:#24292f;margin:28px 0 14px;padding-bottom:8px;border-bottom:1px solid #d0d7de;">🧰 Tech Toolbox</h2>
 
-<!-- Frontend Table -->
 <p style="font-size:14px;font-weight:700;color:#24292f;margin:16px 0 8px;">🎨 Frontend</p>
 <table style="width:100%;border-collapse:collapse;margin-bottom:20px;font-size:14px;">
   <thead>
@@ -42,40 +40,15 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">HTML5</td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Markup</td>
-    </tr>
-    <tr style="background:#f6f8fa;">
-      <td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">CSS3</td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Styling</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">JavaScript</td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Language</td>
-    </tr>
-    <tr style="background:#f6f8fa;">
-      <td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">React</td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Framework</td>
-    </tr>
-    <tr style="background:#f6f8fa;">
-  <td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">Next.js</td>
-  <td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td>
-  <td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Framework</td>
-</tr>
-    <tr>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">Figma</td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="width:20px;height:20px;vertical-align:middle;"></td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Design</td>
-    </tr>
+    <tr><td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">HTML5</td><td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td><td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Markup</td></tr>
+    <tr style="background:#f6f8fa;"><td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">CSS3</td><td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td><td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Styling</td></tr>
+    <tr><td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">JavaScript</td><td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td><td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Language</td></tr>
+    <tr style="background:#f6f8fa;"><td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">React</td><td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td><td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Framework</td></tr>
+    <tr><td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">Next.js</td><td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td><td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Framework</td></tr>
+    <tr style="background:#f6f8fa;"><td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">Figma</td><td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="width:20px;height:20px;vertical-align:middle;"></td><td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Design</td></tr>
   </tbody>
 </table>
 
-<!-- Backend Table -->
 <p style="font-size:14px;font-weight:700;color:#24292f;margin:16px 0 8px;">⚙️ Backend</p>
 <table style="width:100%;border-collapse:collapse;margin-bottom:20px;font-size:14px;">
   <thead>
@@ -86,35 +59,14 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">PHP</td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Language</td>
-    </tr>
-    <tr style="background:#f6f8fa;">
-      <td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">Laravel</td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" style="width:20px;height:20px;vertical-align:middle;"></td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Framework</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">Node.js</td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Runtime</td>
-    </tr>
-    <tr style="background:#f6f8fa;">
-      <td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">Express.js</td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Framework</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">NestJS</td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Framework</td>
-    </tr>
+    <tr><td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">PHP</td><td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td><td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Language</td></tr>
+    <tr style="background:#f6f8fa;"><td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">Laravel</td><td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" style="width:20px;height:20px;vertical-align:middle;"></td><td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Framework</td></tr>
+    <tr><td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">Node.js</td><td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td><td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Runtime</td></tr>
+    <tr style="background:#f6f8fa;"><td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">Express.js</td><td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td><td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Framework</td></tr>
+    <tr><td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">NestJS</td><td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td><td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Framework</td></tr>
   </tbody>
 </table>
 
-<!-- Database Table -->
 <p style="font-size:14px;font-weight:700;color:#24292f;margin:16px 0 8px;">🗄️ Database</p>
 <table style="width:100%;border-collapse:collapse;margin-bottom:20px;font-size:14px;">
   <thead>
@@ -125,26 +77,13 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">MySQL</td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Relational (SQL)</td>
-    </tr>
-    <tr style="background:#f6f8fa;">
-      <td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">PostgreSQL</td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Relational (SQL)</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">MongoDB</td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Document (NoSQL)</td>
-    </tr>
+    <tr><td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">MySQL</td><td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td><td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Relational (SQL)</td></tr>
+    <tr style="background:#f6f8fa;"><td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">PostgreSQL</td><td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td><td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Relational (SQL)</td></tr>
+    <tr><td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">MongoDB</td><td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td><td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Document (NoSQL)</td></tr>
   </tbody>
 </table>
 
-<!-- Tools Table -->
-<p style="font-size:14px;font-weight:700;color:#24292f;margin:16px 0 8px;">🛠️ Tools &amp; Others</p>
+<p style="font-size:14px;font-weight:700;color:#24292f;margin:16px 0 8px;">🛠️ Tools & Others</p>
 <table style="width:100%;border-collapse:collapse;margin-bottom:28px;font-size:14px;">
   <thead>
     <tr style="background:#f6f8fa;">
@@ -154,41 +93,13 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">Git</td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="width:20px;height:20px;vertical-align:middle;"></td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Version Control</td>
-    </tr>
-    <tr style="background:#f6f8fa;">
-      <td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">Docker</td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Containerization</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">Linux</td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Operating System</td>
-    </tr>
-    <tr style="background:#f6f8fa;">
-      <td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">Bash</td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="width:20px;height:20px;vertical-align:middle;"></td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Scripting</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">Java</td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Language</td>
-    </tr>
-    <tr style="background:#f6f8fa;">
-      <td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">C</td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Language</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">Python</td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td>
-      <td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Language</td>
-    </tr>
+    <tr><td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">Git</td><td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="width:20px;height:20px;vertical-align:middle;"></td><td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Version Control</td></tr>
+    <tr style="background:#f6f8fa;"><td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">Docker</td><td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td><td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Containerization</td></tr>
+    <tr><td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">Linux</td><td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td><td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Operating System</td></tr>
+    <tr style="background:#f6f8fa;"><td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">Bash</td><td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="width:20px;height:20px;vertical-align:middle;"></td><td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Scripting</td></tr>
+    <tr><td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">Java</td><td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td><td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Language</td></tr>
+    <tr style="background:#f6f8fa;"><td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">C</td><td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td><td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Language</td></tr>
+    <tr><td style="border:1px solid #d0d7de;padding:8px 12px;font-weight:500;">Python</td><td style="border:1px solid #d0d7de;padding:8px 12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="width:20px;height:20px;vertical-align:middle;"></td><td style="border:1px solid #d0d7de;padding:8px 12px;color:#57606a;">Language</td></tr>
   </tbody>
 </table>
 
@@ -221,4 +132,4 @@
   </div>
 </div>
 
-</body>
+</div>
